@@ -1,3 +1,7 @@
+name = "Charles Ren"
+email = "charlesren99@gmail.com"
+program = "TuringSchool"
+
 age = 23
 height = 180
 money = 0
